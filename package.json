@@ -1,0 +1,30 @@
+{
+  "name": "newsblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.dart",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chalk": "^5.3.0",
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2",
+    "moment": "^2.30.1",
+    "node-fetch": "^3.3.2",
+    "semantic-release": "^23.0.2",
+    "flutter": "^3.19.0",
+    "strapi": "^4.13.5",
+    "strapi-plugin-content-manager": "^4.13.5",
+    "strapi-plugin-email": "^4.13.5"",
+    "strapi-plugin-upload": "^4.13.5",
+    "strapi-plugin-users-permissions": "^4.13.5",
+    "strapi-supergpt": "^4.13.5","
+    "strapi-plugin-io": "^4.13.5"
+    
+  }
+}
