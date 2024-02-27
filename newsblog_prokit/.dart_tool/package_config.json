@@ -315,9 +315,9 @@
     },
     {
       "name": "image_picker",
-      "rootUri": "file:///home/codespace/.pub-cache/hosted/pub.dev/image_picker-0.8.9",
+      "rootUri": "file:///home/codespace/.pub-cache/hosted/pub.dev/image_picker-1.0.7",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "image_picker_android",
@@ -483,13 +483,13 @@
     },
     {
       "name": "path_drawing",
-      "rootUri": "file:///home/codespace/.pub-cache/hosted/pub.dev/path_drawing-0.5.1+1",
+      "rootUri": "file:///home/codespace/.pub-cache/hosted/pub.dev/path_drawing-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path_parsing",
-      "rootUri": "file:///home/codespace/.pub-cache/hosted/pub.dev/path_parsing-0.2.1",
+      "rootUri": "file:///home/codespace/.pub-cache/hosted/pub.dev/path_parsing-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -836,7 +836,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-02-27T05:21:38.352882Z",
+  "generated": "2024-02-27T05:25:29.650740Z",
   "generator": "pub",
   "generatorVersion": "3.3.0"
 }
